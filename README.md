@@ -2,8 +2,8 @@
 Malware Analysis 
 
 Title: Malware Analysis Report: Suspicious Trojan Embedded in .HTA File
-Investigator: [Your Name]
-Date: [Date]
+Investigator: TheMayorAgusS
+Date: March 12
 
 
 ---
